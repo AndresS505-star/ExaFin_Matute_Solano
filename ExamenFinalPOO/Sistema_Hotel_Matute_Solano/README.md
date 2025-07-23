@@ -19,7 +19,7 @@
 
 ## 🧩 Diagrama UML
 
-![UML](/imagenesExam/GestionHotel.png)
+![UML](imagenesExam/GestionHotel.png)
 
 
 ## Estructura del Proyecto
